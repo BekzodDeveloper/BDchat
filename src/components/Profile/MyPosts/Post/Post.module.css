@@ -1,0 +1,38 @@
+.post {
+    margin: 20px 0px;
+    padding: 20px 0px 20px 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.post img {
+    width: 50px;
+    border-radius: 100%;
+}
+.who{
+    color: #020234;
+    font-weight: bolder;
+    padding-left: 10px;
+}
+
+.property {
+    display: inline;
+}
+
+.marks {
+    color: lightcyan;
+    background-color: brown;
+    padding: 3px 20px;
+    margin: 20px 10px;
+    border-radius: 10px;
+}
+
+/*.marks:hover {*/
+/*    background-color: deeppink;*/
+/*    font-size: 17px;*/
+/*}*/
+
+.ava_message {
+    padding-bottom: 20px;
+    padding-right: 15px;
+}

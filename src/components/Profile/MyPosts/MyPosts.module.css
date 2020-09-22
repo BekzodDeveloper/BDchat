@@ -1,0 +1,26 @@
+.myposts {
+    color: black;
+    padding: 20px;
+}
+
+.myposts textarea {
+    width: 50%;
+    height: 50px;
+    background-color: rgba(128, 128, 128, 0.3);
+    border-color: black;
+}
+
+.myposts button {
+    background-color: brown;
+    color: white;
+    padding: 5px;
+    border-color: brown;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.newPost {
+    background-color: #d0d0d0;
+    margin: 0;
+    padding: 20px;
+}

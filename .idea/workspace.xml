@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="905b33a3-cacf-4b0a-97cc-e79921127c73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../javascript/part 1/.idea/javascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/react-website-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-website-01/src/components/Button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-website-01/src/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-website-01/src/components/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-website-01/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/logo_bekdev.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/BekzodDeveloper/social-network-on-reactjs.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gNSxdErrB4vbxRXt40fxiT2W9v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\News" />
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Profile\MyPosts\Post" />
+      <recent name="D:\selfStudy\wayToFrontEndDeveloper\react WAY OF SAMURAI\react-bekdev-1\src\folder" />
+      <recent name="D:\selfStudy\wayToFrontEndDeveloper\react WAY OF SAMURAI\react-bekdev-1\src\folder\services" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components" />
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\News" />
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Dialogs" />
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Profile\MyPosts\Post" />
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Profile\MyPosts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="905b33a3-cacf-4b0a-97cc-e79921127c73" name="Default Changelist" comment="" />
+      <created>1597953808230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597953808230</updated>
+      <workItem from="1597953829688" duration="1060000" />
+      <workItem from="1598013508847" duration="11409000" />
+      <workItem from="1598183550828" duration="5395000" />
+      <workItem from="1598206337155" duration="104000" />
+      <workItem from="1598206490099" duration="944000" />
+      <workItem from="1600404481278" duration="9808000" />
+      <workItem from="1600652160625" duration="5597000" />
+      <workItem from="1600660812587" duration="1802000" />
+      <workItem from="1600663475416" duration="4745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598024730126">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1598024730126" />
+    <state x="497" y="89" key="RollbackChangesDialog" timestamp="1600656004110">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="497" y="89" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1600656004110" />
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600664856565">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1600664856565" />
+  </component>
+</project>

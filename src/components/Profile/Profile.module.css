@@ -1,0 +1,59 @@
+.profile {
+    background-color: rgba(128, 128, 128, 0.2);
+
+    display: grid;
+    grid-gap: 5px;
+    grid-template-areas:
+            "w"
+            "a_d"
+            "mP ";
+    grid-template-columns: auto ;
+    grid-template-rows: auto auto auto;
+
+}
+
+.profile .wallpaper {
+    width: 100%;
+    height: 200px;
+
+    grid-area: w;
+}
+
+.profile .ava_and_description {
+    grid-area: a_d;
+
+    display: grid;
+    grid-gap: 5px;
+    grid-template-areas:"a d";
+    grid-template-columns: 2fr 10fr ;
+    grid-template-rows: auto;
+
+
+
+}
+
+.profile .ava {
+    grid-area: a;
+
+    /*background-color: #bf2424;*/
+
+}
+
+.ava img{
+    width: 200px;
+    padding: 20px;
+
+    border-radius: 100%;
+
+}
+
+.profile .description {
+    grid-area: d;
+
+    /*background-color: rgba(29, 29, 36, 0.18);*/
+    padding: 10px;
+}
+
+.profile .myPosts{
+    grid-area: mP;
+}
