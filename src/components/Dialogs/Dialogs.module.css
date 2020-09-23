@@ -1,4 +1,35 @@
-.dialogs{
+.dialogs {
     background-color: rgba(128, 128, 128, 0.55);
+
+    display: grid;
+    grid-template-columns: 2fr 10fr ;
+
 }
 
+.dialogsItems {
+    padding: 10px;
+}
+
+.dialog a{
+    color: darkgreen;
+}
+
+.dialog .activeLink {
+    color: #ffb933;
+    font-weight: bold;
+}
+
+
+.dialog a{
+ text-decoration: none;
+}
+
+
+.messages {
+    padding: 10px;
+
+}
+
+.messages .message {
+
+}

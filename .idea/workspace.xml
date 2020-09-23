@@ -7,25 +7,12 @@
   <component name="ChangeListManager">
     <list default="true" id="905b33a3-cacf-4b0a-97cc-e79921127c73" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../javascript/part 1/.idea/javascript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/react-website-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-website-01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-website-01/src/components/Button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-website-01/src/components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-website-01/src/components/Navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-website-01/src/components/Navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/logo_bekdev.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +89,8 @@
       <workItem from="1600652160625" duration="5597000" />
       <workItem from="1600660812587" duration="1802000" />
       <workItem from="1600663475416" duration="4745000" />
+      <workItem from="1600825492403" duration="926000" />
+      <workItem from="1600832855864" duration="4205000" />
     </task>
     <servers />
   </component>

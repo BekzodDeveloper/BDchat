@@ -2,6 +2,7 @@ import React from 'react';
 import styles from "./Profile.module.css";
 import MyPosts from "./MyPosts/MyPosts";
 import Logo from "./../../image/logo_bekdev .jpg";
+import Wallpaper from "./../../image/bg7.jpg";
 
 
 const Profile = () => {
@@ -9,7 +10,7 @@ const Profile = () => {
         <div className={styles.profile}>
             <div>
                 <img className={styles.wallpaper}
-                      src="https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/Top-companies-in-JLT-Cover-18-05.jpg"
+                      src={Wallpaper}
                       alt=""></img>
             </div>
 
