@@ -6,13 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="905b33a3-cacf-4b0a-97cc-e79921127c73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../javascript/part 1/.idea/javascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,25 +53,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/ProfileInfo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Profile\ProfileInfo" />
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components" />
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\News" />
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Dialogs" />
+      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Profile\MyPosts\Post" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\News" />
       <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Profile\MyPosts\Post" />
       <recent name="D:\selfStudy\wayToFrontEndDeveloper\react WAY OF SAMURAI\react-bekdev-1\src\folder" />
       <recent name="D:\selfStudy\wayToFrontEndDeveloper\react WAY OF SAMURAI\react-bekdev-1\src\folder\services" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components" />
-      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\News" />
-      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Dialogs" />
-      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Profile\MyPosts\Post" />
-      <recent name="D:\selfSTUDY\wayToFrontEndDeveloper\react WAY OF SAMURAI\social-network-on-reactjs\src\components\Profile\MyPosts" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -90,7 +94,13 @@
       <workItem from="1600660812587" duration="1802000" />
       <workItem from="1600663475416" duration="4745000" />
       <workItem from="1600825492403" duration="926000" />
-      <workItem from="1600832855864" duration="4205000" />
+      <workItem from="1600832855864" duration="5200000" />
+      <workItem from="1601054468439" duration="652000" />
+      <workItem from="1601255817817" duration="1601000" />
+      <workItem from="1601266157689" duration="657000" />
+      <workItem from="1601295948588" duration="2014000" />
+      <workItem from="1601358757769" duration="5747000" />
+      <workItem from="1601367045566" duration="963000" />
     </task>
     <servers />
   </component>
@@ -122,5 +132,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1600664856565" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1601365593804">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1601365593804" />
   </component>
 </project>

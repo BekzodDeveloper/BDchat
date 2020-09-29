@@ -4,6 +4,12 @@ import Post from "./Post/Post";
 
 
 const MyPosts = () => {
+    let postData = [
+        {id:1, message:"Hello, I'm Bekzod Developer!", likesCount:18, disLikesCount:8},
+        {id:2, message:"Hello, I'm Front-end Developer!", likesCount:11, disLikesCount:22},
+        {id:3, message:"Hello, I'm Junior Front-end Developer!", likesCount:101, disLikesCount:32}
+    ]
+
     return (
         <div className={styles.myposts}>
             <h2>My posts</h2>
@@ -14,15 +20,13 @@ const MyPosts = () => {
                     <textarea>Write new post here...</textarea>
                 </div>
                 <div>
-                    <button>Submit</button>
+                    <button>Send</button>
                 </div>
             </div>
-            <Post
-                message="Hello, I'm Bekzod Developer! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada odio sit amet dolor efficitur tincidunt. Praesent sit amet dictum risus, condimentum elementum nibh. Vivamus suscipit quis sem quis dictum. Aliquam metus enim, vulputate ac pulvinar quis, aliquet et orci. Suspendisse fringilla, lorem sed sagittis dictum, velit sem faucibus felis, vitae mollis nisi enim in mi. Nam tristique, quam consectetur aliquam auctor, dui augue scelerisque ipsum, vel maximus arcu leo sit amet tellus. " likes="10" dislikes="9"/>
-            <Post message="Thanks to IT-KAMASUTRA.COM" likes="21" dislikes="9"/>
-            <Post message="React. Way of Samurai. Fux-Fux-Fux!" likes="1" dislikes="9"/>
-            <Post message="React. Way of Samurai. Fux-Fux-Fux!" likes="18" dislikes="9"/>
-
+            
+            <Post message={postData[0].message} likes={postData[0].likesCount} dislikes={postData[0].disLikesCount}/>
+            <Post message={postData[1].message} likes={postData[1].likesCount} dislikes={postData[1].disLikesCount}/>
+            <Post message={postData[2].message} likes={postData[2].likesCount} dislikes={postData[2].disLikesCount}/>
 
         </div>
     )

@@ -11,14 +11,9 @@ const Post = (props) => {
                 <span className={styles.who}>BekDev</span>
                 <div>{props.message}</div>
             </div>
-            <div>
+            <div className={styles.likesDislikes}>
                 <span>Likes: </span> {props.likes}
                 <span>Dislikes: </span> {props.dislikes}
-
-            </div>
-            <div>
-                <span className={styles.marks}>LIKE</span>
-                <span className={styles.marks}>DISLIKE</span>
             </div>
         </div>
     )

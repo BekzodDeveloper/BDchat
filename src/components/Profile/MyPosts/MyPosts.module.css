@@ -1,6 +1,7 @@
 .myposts {
     color: black;
     padding: 20px;
+    background-color: #a1a19b;
 }
 
 .myposts textarea {
@@ -11,16 +12,15 @@
 }
 
 .myposts button {
-    background-color: brown;
-    color: white;
+    background-color: rgba(255, 185, 51, 0.95);
     padding: 5px;
-    border-color: brown;
+    border-color: rgba(255, 185, 51, 0.95);
     font-size: 20px;
     border-radius: 4px;
 }
 
 .newPost {
-    background-color: #d0d0d0;
+    background-color: #efefef;
     margin: 0;
     padding: 20px;
 }

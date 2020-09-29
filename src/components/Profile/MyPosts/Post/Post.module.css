@@ -19,18 +19,9 @@
     display: inline;
 }
 
-.marks {
-    color: lightcyan;
-    background-color: brown;
-    padding: 3px 20px;
-    margin: 20px 10px;
-    border-radius: 10px;
+.likesDislikes span{
+    padding:0px 5px;
 }
-
-/*.marks:hover {*/
-/*    background-color: deeppink;*/
-/*    font-size: 17px;*/
-/*}*/
 
 .ava_message {
     padding-bottom: 20px;
