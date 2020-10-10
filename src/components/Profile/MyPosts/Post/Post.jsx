@@ -12,8 +12,8 @@ const Post = (props) => {
                 <div>{props.message}</div>
             </div>
             <div className={styles.likesDislikes}>
-                <span>Likes: </span> {props.likes}
-                <span>Dislikes: </span> {props.dislikes}
+                <span>Likes: </span> {props.likesCount}
+                <span>Dislikes: </span> {props.disLikesCount}
             </div>
         </div>
     )
