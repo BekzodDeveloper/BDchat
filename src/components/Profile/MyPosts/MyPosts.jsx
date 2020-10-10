@@ -3,6 +3,7 @@ import styles from "./MyPosts.module.css";
 import Post from "./Post/Post";
 
 
+
 const MyPosts = () => {
     let posts = [
         {id:1, message:"Hello, I'm Bekzod Developer!", likesCount:18, disLikesCount:8},
